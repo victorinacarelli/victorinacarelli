@@ -9,6 +9,20 @@ const victorina = {
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
  }
 ```
+## Hi there 👋🏻:
+
+- 🔭 I’m currently working on: e-commerce.
+- 🌱 I’m currently learning: Js, UX/UI, all about Web development.
+- 👯 I’m looking to collaborate on: e-commerce.
+- ⚡ Fun fact: I´m a dog lover 🐶.
+
+## Tech ⚙️:
+- UX/UI
+- Css
+- Html
+- Git
+- Boostrap
+
 
 ## You can find me 🌏:
 - [Instagram](https://www.instagram.com/victorinacarelli/)
@@ -18,13 +32,6 @@ const victorina = {
 <!--
 **victorinacarelli/victorinacarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-## Hi there 👋🏻:
-
-- 🔭 I’m currently working on: e-commerce.
-- 🌱 I’m currently learning: Js, UX/UI, all about Web development.
-- 👯 I’m looking to collaborate on: e-commerce.
-- ⚡ Fun fact: I´m a dog lover 🐶.
 
 ## Contact me 📩:
 
