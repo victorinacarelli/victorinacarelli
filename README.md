@@ -23,6 +23,8 @@ const victorina = {
 - Git
 - Boostrap
 
+## Others 🔧:
+- Figma
 
 ## You can find me 🌏:
 - [Instagram](https://www.instagram.com/victorinacarelli/)
