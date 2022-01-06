@@ -27,5 +27,5 @@ const victorina = {
 - ⚡ Fun fact: I´m a dog lover 🐶.
 
 
-[![Gmail](https://img.shields.io/badge/-PerezRMacarena-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorinacarelli@gmail.com)
+[![Gmail](https://img.shields.io/badge/-VictorinaCarelli-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorinacarelli@gmail.com)
 
