@@ -1,4 +1,4 @@
-### Hi there I´m Victorina 👩🏻‍💻✨
+### Hi there 👩🏻‍💻✨
 
 ![Diseño sin título](https://user-images.githubusercontent.com/94463300/148407184-44517bb4-da9c-42cd-a65f-997da5cbf201.png)
 
@@ -26,7 +26,7 @@ const victorina = {
 - 👯 I’m looking to collaborate on: e-commerce.
 - ⚡ Fun fact: I´m a dog lover 🐶.
 
-## Contact me 🏻📩:
+## Contact me 📩:
 
 [![Gmail](https://img.shields.io/badge/-VictorinaCarelli-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorinacarelli@gmail.com)
 
