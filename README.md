@@ -12,6 +12,7 @@ const vic = {
 
 You can find me 🌏:
 - [Instagram](https://www.instagram.com/victorinacarelli/)
+- [Linkedin](https://www.linkedin.com/in/victorina-carelli-296446116/)
 
 
 <!--
