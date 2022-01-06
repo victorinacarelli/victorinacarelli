@@ -26,6 +26,7 @@ const victorina = {
 - 👯 I’m looking to collaborate on: e-commerce.
 - ⚡ Fun fact: I´m a dog lover 🐶.
 
+## Contact me 🏻📩:
 
 [![Gmail](https://img.shields.io/badge/-VictorinaCarelli-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorinacarelli@gmail.com)
 
