@@ -1,5 +1,6 @@
 ### Hi there I´m Victorina 👩🏻‍💻✨
-https://github.com/victorinacarelli/victorinacarelli/issues/1#issue-1095415403
+![Títulovic](https://user-images.githubusercontent.com/94463300/148404910-016bacd7-dcc6-4f11-80a2-3e4b958e9ae0.png)
+
 ```js
 const midudev = {
   pronouns: "she" | "her",
