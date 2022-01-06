@@ -17,14 +17,14 @@ const victorina = {
 - ⚡ Fun fact: I´m a dog lover 🐶.
 
 ## Tech ⚙️:
-- UX/UI
-- Css
-- Html
-- Git
-- Boostrap
+- 🖌 UX/UI
+- 🎨 Css
+- 🏠 Html
+- ⚡️ Git
+- 🚀 Boostrap
 
 ## Others 🔧:
-- Figma
+- 🎨 Figma
 
 ## You can find me 🌏:
 - [Instagram](https://www.instagram.com/victorinacarelli/)
