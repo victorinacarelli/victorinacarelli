@@ -1,6 +1,5 @@
 ### Hi there I´m Victorina 👩🏻‍💻✨
-![Títulovic](https://user-images.githubusercontent.com/94463300/148404910-016bacd7-dcc6-4f11-80a2-3e4b958e9ae0.png)
-
+![Diseño sin título](https://user-images.githubusercontent.com/94463300/148407184-44517bb4-da9c-42cd-a65f-997da5cbf201.png)
 ```js
 const midudev = {
   pronouns: "she" | "her",
