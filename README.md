@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there I´m Victorina 👩🏻‍💻✨
+
+```js
+const midudev = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS ],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+ }
+```
+
+
+
 
 <!--
 **victorinacarelli/victorinacarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
