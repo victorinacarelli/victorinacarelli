@@ -10,20 +10,19 @@ const vic = {
  }
 ```
 
-You can find me 🌏:
+## You can find me 🌏:
 - [Instagram](https://www.instagram.com/victorinacarelli/)
 - [Linkedin](https://www.linkedin.com/in/victorina-carelli-296446116/)
 
 
 <!--
 **victorinacarelli/victorinacarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: Js, UX/UI
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I´m a dog lover 🐶
 -->
+
+## Here are some ideas to get you started:
+
+- 🔭 I’m currently working on: e-commerce.
+- 🌱 I’m currently learning: Js, UX/UI, all about Web development.
+- 👯 I’m looking to collaborate on: e-commerce.
+- ⚡ Fun fact: I´m a dog lover 🐶.
+
