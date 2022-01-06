@@ -3,7 +3,7 @@
 ![Diseño sin título](https://user-images.githubusercontent.com/94463300/148407184-44517bb4-da9c-42cd-a65f-997da5cbf201.png)
 
 ```js
-const vic = {
+const victorina = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS ],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
