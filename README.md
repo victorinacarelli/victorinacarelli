@@ -19,7 +19,7 @@ const vic = {
 **victorinacarelli/victorinacarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Here are some ideas to get you started:
+## Hi there 👋🏻:
 
 - 🔭 I’m currently working on: e-commerce.
 - 🌱 I’m currently learning: Js, UX/UI, all about Web development.
